@@ -7,18 +7,26 @@ disqus:
 google-ID: ''
 
 menu: 
+  - name: News
+    link: /
   - name: About
     link: /about
-  - name: Team
-    link: /team
-  - name: Posts
-    link: /
+  - name: People
+    link: /people
+  - name: Awards
+    link: /awards
   - name: Featured Projects
     submenu:
       - name: Vision-based Control
         link: /projects/vision_based_control
       - name: Reinforcement Learning
         link: /projects/reinforcementlearning
+  - name: Resources
+    submenu:
+      - name: Publication
+        link: /resources/publication
+      - name: Codes and Datasets
+        link: /resources/codes_datasets
   - name: Follow me
     submenu:
       - name: GitHub
