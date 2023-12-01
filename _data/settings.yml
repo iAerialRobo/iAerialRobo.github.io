@@ -16,7 +16,7 @@ menu:
   - name: Posts
     link: /
   - name: Team
-    link: /team
+    link: /team/team
   - name: About
     link: /about
   - name: Follow me
