@@ -13,6 +13,10 @@ menu:
     link: /about
   - name: People
     link: /people
+  - name: Publications
+    link: /publications
+  - name: Codes and Datasets
+    link: /codes_datasets
   - name: Awards
     link: /awards
   - name: Featured Projects
@@ -21,12 +25,6 @@ menu:
         link: /projects/vision_based_control
       - name: Reinforcement Learning
         link: /projects/reinforcementlearning
-  - name: Resources
-    submenu:
-      - name: Publication
-        link: /resources/publication
-      - name: Codes and Datasets
-        link: /resources/codes_datasets
   - name: Follow me
     submenu:
       - name: GitHub
