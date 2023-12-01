@@ -11,12 +11,12 @@ menu:
     submenu:
       - name: Vision-based Control
         link: /projects/vision_based_control
-      - name: OurLegacy
-        link: /projects/ourlegacy
+      - name: Reinforcement Learning
+        link: /projects/reinforcementlearning
   - name: Posts
     link: /
-  - name: Tags
-    link: /tags
+  - name: Team
+    link: /team
   - name: About
     link: /about
   - name: Follow me
