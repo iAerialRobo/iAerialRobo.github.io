@@ -18,7 +18,7 @@ name: Intelligent Aerial Robotics
 description: 
   Intelligent Aerial Robotics Research Group is situated at the UAV Lab of the School of Aerospace Engineering in Universiti Sains Malaysia
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  mav2usm
+github_username:  iAerialRobo
 
 # jekyll-paginate configuration
 paginate: 10
