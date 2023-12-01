@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: USM UAV Lab
-name: USM UAV Lab
+title: Intelligent Aerial Robotics
+name: Intelligent Aerial Robotics
 description: 
-  UAV Lab at the School of Aerospace Engineering of Universiti Sains Malaysia
+  Intelligent Aerial Robotics Research Group is situated at the UAV Lab of the School of Aerospace Engineering in Universiti Sains Malaysia
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  mav2usm
 
