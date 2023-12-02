@@ -11,6 +11,8 @@ menu:
     link: /
   - name: About
     link: /about
+  - name: People
+    link: /people
   - name: Publications
     link: /publications
   - name: Codes and Datasets
