@@ -31,8 +31,8 @@ menu:
         icon: github
         link: http://github.com/iAerialRobo
       - name: LinkedIn
-        icon: linkedin-square
-        link: http://www.linkedin.com/in/hannwoei
+        icon: envelope-square
+        link: mailto:aehannwoei@usm.my
       - name: Youtube
         icon: youtube
         link: https://youtube.com/@iAerialRobo?si=0mRvsQe0ObzL7mcR
