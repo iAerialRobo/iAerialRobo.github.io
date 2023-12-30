@@ -35,7 +35,7 @@ exclude:
   - Gemfile.lock
 include: ["_pages"]
 permalink: /posts/:title/
-excerpt_separator: <!--more-->
+excerpt_separator: 10
 author: https://hannwoei.github.io/
 
 host: 0.0.0.0
